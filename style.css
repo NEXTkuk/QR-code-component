@@ -9,14 +9,14 @@ body {
     height: 100vh;
 }
 
-.wrapper {
+main {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100%;
 }
 
-.wrapper .card {
+main .card {
     width: 20%;
     height: 20%;
     border-radius: 15px;
